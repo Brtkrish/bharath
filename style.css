@@ -48,9 +48,9 @@ body {
 }
 
 .section h2 {
-    border-bottom: 2px solid #ffcc00;
+    border-bottom: 2px solid #bbb28e;
     padding-bottom: 5px;
-    color: #ffcc00;
+    color: #ffffff;
     margin-bottom: 15px;
 }
 
@@ -59,11 +59,11 @@ body {
 }
 
 .section p strong {
-    color: #ffcc00;
+    color: #fff067;
 }
 
 .section a {
-    color: #ffcc00;
+    color: #83dbdb;
     text-decoration: none;
 }
 
