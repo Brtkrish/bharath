@@ -32,6 +32,7 @@ body {
 .sections {
     display: flex;
     justify-content: space-between;
+    gap: 20px; /* Added gap between sections */
     margin-top: 20px;
 }
 
@@ -56,4 +57,13 @@ body {
 
 .section p strong {
     color: #ffcc00;
+}
+
+.section a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+.section a:hover {
+    text-decoration: underline;
 }
